@@ -1,4 +1,4 @@
-var age = "banana";
+var age = 77;
 var is_subscribed = true;
 
 if (age < 18 && is_subscribed === false) {
